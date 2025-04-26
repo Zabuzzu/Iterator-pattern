@@ -1,4 +1,4 @@
-# Iterator Pattern Demo
+# Iterator Pattern 
 
 This mini-project demonstrates the **Iterator** design pattern by simulating a “binge-mode” episode player for a streaming service.
 
