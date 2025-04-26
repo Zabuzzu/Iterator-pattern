@@ -8,11 +8,6 @@ This mini-project demonstrates the **Iterator** design pattern by simulating a â
 
 1. [Overview](#overview)  
 2. [Project Structure](#project-structure)  
-3. [Setup & Build](#setup--build)  
-4. [Running the Demo](#running-the-demo)  
-5. [Usage Examples](#usage-examples)  
-6. [Why Use Iterator?](#why-use-iterator)  
-7. [License](#license)  
 
 ---
 
